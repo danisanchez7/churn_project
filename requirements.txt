@@ -4,3 +4,6 @@ scikit-learn
 pandas
 joblib
 pydantic
+kagglehub
+streamlit
+requests
