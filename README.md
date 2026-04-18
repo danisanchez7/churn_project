@@ -20,6 +20,6 @@ Este proyecto implementa una solución completa de Machine Learning para predeci
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <tu-url-de-github>
+   git clone https://github.com/danisanchez7/churn_project.git
    cd churn_project
 
